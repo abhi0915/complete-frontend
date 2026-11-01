@@ -1,0 +1,13 @@
+{
+  "name": "cognifyz-frontend-internship",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cognifyz Front-End Development internship tasks 1-8",
+  "scripts": {
+    "sass": "sass styles.scss styles.css --no-source-map",
+    "sass:watch": "sass --watch styles.scss:styles.css --no-source-map"
+  },
+  "devDependencies": {
+    "sass": "^1.83.0"
+  }
+}
